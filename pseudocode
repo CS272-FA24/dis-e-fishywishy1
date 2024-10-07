@@ -1,0 +1,8 @@
+1) gather all books that you would like to sort
+2) place books together in an area to sort them
+3) examine all books for their titles 
+4) compare the first letter in each books title, and if the first letters are the same go on to the second letter until there is a difference
+5) move the books around in order based on the previous comparisons. This order is based on which title had the "smallest" letter or sequence of letters
+6) Once all books have been compared and sorted alphabetically, review the order you have done to check that it is sorted correctly.
+7) finalize the sorting you have done and replace the books in the same order where you need them to be
+
